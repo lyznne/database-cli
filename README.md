@@ -8,7 +8,7 @@ This project is a command-line tool that allows you to perform CRUD operations (
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/lyznne/database-cli.git`
 2. Navigate to the project directory: `cd cli`
 3. Install the dependencies: `npm install`
 
